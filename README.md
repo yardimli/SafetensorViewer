@@ -8,7 +8,9 @@ On a blank workflow add the Safetensor Viewer and a Preview Image, then connect 
 
 Select a safetensor file and click Play (Queue)
 
-![preview](https://github.com/yardimli/SafetensorViewer/blob/main/1.png?raw=true)
+![preview](https://github.com/yardimli/SafetensorViewer/blob/main/images/1.png?raw=true)
+
+![preview](https://github.com/yardimli/SafetensorViewer/blob/main/images/2.png?raw=true)
 
 ## Installation
 
