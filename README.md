@@ -8,6 +8,8 @@ On a blank workflow add the Safetensor Viewer and a Preview Image, then connect 
 
 Select a safetensor file and click Play (Queue)
 
+![preview](https://github.com/yardimli/SafetensorViewer/blob/main/1.png?raw=true)
+
 ## Installation
 
 To use these nodes, simply open a terminal in ComfyUI/custom_nodes/ and run:
